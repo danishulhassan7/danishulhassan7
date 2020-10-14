@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋, I'm Danish Ul Hassan - [Computer Science Student][website] 👋
+### Hi there 👋, I'm Danish Ul Hassan - [Computer Science Student][website]✨ 
 
 [![Website](https://img.shields.io/website?label=danishulhassan7&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://danishulhassan7portfolio.web.app/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/DanishUlHassan5?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/DanishUlHassan5)
@@ -37,7 +37,6 @@ Here are some ideas to get you started:
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -68,7 +67,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 📺 Latest YouTube Videos
+ <!-- ### 📺 Latest YouTube Videos -->
 
 <!-- YOUTUBE:START -->
 <!-- - [6 Amazing Tips to Successfully Freelance in Web Development (2020)](https://www.youtube.com/watch?v=e9UvzZJflqU)
@@ -82,7 +81,7 @@ Here are some ideas to get you started:
 
 --- -->
 
-### 📕 Latest Blog Posts
+ <!-- ### 📕 Latest Blog Posts-->
 
 <!-- BLOG-POST-LIST:START -->
 <!-- - [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
@@ -100,9 +99,9 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#259](https://github.com/danishulhassan7/Hacktoberfest-Learning) in [florinpop17/app-ideas](https://github.com/danishulhassan7)
-2. 🎉 Merged PR [#13](https://github.com/danishulhassan7/Hacktoberfest2020-HTML-CSS-WEB) in [codeSTACKr/codeSTACKr](https://github.com/danishulhassan7)
-3. 💪 Opened PR [#13](https://github.com/danishulhassan7/gcp-labs) in [codeSTACKr/codeSTACKr](https://github.com/danishulhassan7)
+1. 💪 Opened PR [#259](https://github.com/danishulhassan7/Hacktoberfest-Learning) in [danishulhassan7/Hacktoberfest-Learning](https://github.com/danishulhassan7)
+2. 🎉 Merged PR [#13](https://github.com/danishulhassan7/Hacktoberfest2020-HTML-CSS-WEB) in [danishulhassan7/Hacktoberfest2020-HTML-CSS-WEB](https://github.com/danishulhassan7)
+3. 💪 Opened PR [#13](https://github.com/danishulhassan7/gcp-labs) in [danishulhassan7/gcp-labs](https://github.com/danishulhassan7)
 <!-- 4. 🎉 Merged PR [#12](https://github.com/codeSTACKr/codeSTACKr/pull/12) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
 5. 💪 Opened PR [#12](https://github.com/codeSTACKr/codeSTACKr/pull/12) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr) -->
 <!--END_SECTION:activity-->
@@ -112,7 +111,7 @@ Here are some ideas to get you started:
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github.com/danishulhassan7?tab=repositories" />
+  <img align="left" alt="Danish Ul Hassan GitHub Stats" src="https://github.com/danishulhassan7?tab=repositories" />
 
 </details>
 
