@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 [![Website](https://img.shields.io/website?label=danishulhassan7&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://danishulhassan7portfolio.web.app/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/DanishUlHassan5?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/DanishUlHassan5)
-[![Twitter Follow](https://img.shields.io/twitter/Connect?color=1DA1F2&logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/danish-ul-hassan-a86748171/)
+[![LinkedIn Follow](https://img.shields.io/linkedin/Connect/DanishUlHassan?color=1DA1F2&logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/danish-ul-hassan-a86748171/)
 
 ## I'm a Student, Coder, Developer, and Social Geek!!
 
