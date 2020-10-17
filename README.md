@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋, I'm Danish Ul Hassan - [Computer Science Student][website]✨ 
+### Hi there 👋, I'm Danish Ul Hassan - [Computer Science Student][website]
 
 [![Website](https://img.shields.io/website?label=danishulhassan7&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://danishulhassan7portfolio.web.app/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/DanishUlHassan5?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/DanishUlHassan5)
