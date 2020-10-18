@@ -30,9 +30,6 @@ Here are some ideas to get you started:
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I'm a Cricket Enthusiast and Love Music.
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ### Connect with me:
 
