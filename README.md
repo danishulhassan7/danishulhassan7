@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ## I'm a Student, Coder, Developer, and Social Geek!!
 
 - 🔭 I'm currently working on different Front-end projects!
-- 🌱 I’m learning Web-App Development now, REACT 🤣
+- 🌱 I’m learning Web-App Development now, REACT + NODE
 - 👯 I’m looking to collaborate/contribute with other open-source projects.
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I'm a Cricket Enthusiast and Love Music.
