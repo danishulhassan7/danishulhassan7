@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 
-## I'm a Student, Coder, Developer, and Social Geek!!
+## I'm a Student, Learner, Coder, Developer, and Social Geek!!
 
 - 🔭 I'm currently working on different Front-end projects!
 - 🌱 I’m learning Web-App Development now, REACT + NODE
