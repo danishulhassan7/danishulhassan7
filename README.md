@@ -47,10 +47,10 @@ Reach out to me at...
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burhanrashid52&theme=light&hide_langs_below=1" />
 </a>
 
-- 🔭 I’m currently working on React
-- 🌱 I’m currently learning Javascript
-- 👯 I’m looking to collaborate on Mobile Project
+- 🔭 I’m currently working on front-end technologies
+- 🌱 I’m currently learning Javascript (Reactjs and Nodejs)
+- 👯 I’m looking to collaborate on open-source Web App Projects
 - 🤔 I’m looking for help with my open source projects
-- 💬 Apart from tech you can Ask me about Movies, TV Shows and Books
-- 📫 How to reach me at burhanrashid5253@gmail.com
+- 💬 Apart from tech you can Ask me about Cricket, TV Shows and Books
+- 📫 How to reach me at danishulhassan7@gmail.com
 - ⚡ Fun fact: I can mentally be present in a meeting for 45-60 minutes.
