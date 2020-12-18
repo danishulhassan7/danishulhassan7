@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--
 ### Hi there 👋, I'm Danish Ul Hassan - [Computer Science Student][website]
 
 [![Website](https://img.shields.io/website?label=danishulhassan7&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://danishulhassan7portfolio.web.app/)
@@ -118,4 +120,4 @@ Here are some ideas to get you started:
 [twitter]: https://twitter.com/DanishUlHassan5
 [instagram]: https://www.instagram.com/xpfcricworld/
 [linkedin]: https://www.linkedin.com/in/danish-ul-hassan-a86748171/
-[webdevplaylist]: https://danishulhassan7portfolio.web.app/
+[webdevplaylist]: https://danishulhassan7portfolio.web.app/ -->
