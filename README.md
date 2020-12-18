@@ -96,7 +96,7 @@ Here are some ideas to get you started:
 <!-- ➡️ [more blog posts...](https://codestackr.com) -->
 
 ---
-
+<!--
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
@@ -109,7 +109,7 @@ Here are some ideas to get you started:
 <!--END_SECTION:activity-->
 
 </details>
-
+-->
 <details>
   <summary>:zap: GitHub Stats</summary>
  🎉 Merged PR [#13](https://github.com/danishulhassan7/Hacktoberfest2020-HTML-CSS-WEB) in [danishulhassan7/Hacktoberfest2020-HTML-CSS-WEB](https://github.com/danishulhassan7?tab=repositories)
