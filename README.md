@@ -28,14 +28,14 @@ Reach out to me at...
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=danishulhassan7&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
 
 #### Languages
-<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://devicons.github.io/devicon/devicon.git/icons/kotlin/kotlin-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://devicons.github.io/devicon/devicon.git/icons/flutter/flutter-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://devicons.github.io/devicon/devicon.git/icons/html/html-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://devicons.github.io/devicon/devicon.git/icons/css/css-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Tools and Frameworks
-<img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://devicons.github.io/devicon/devicon.git/icons/flutter/flutter-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://devicons.github.io/devicon/devicon.git/icons/vscode/vscode-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://devicons.github.io/devicon/devicon.git/icons/jetbrains/jetbrains-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
