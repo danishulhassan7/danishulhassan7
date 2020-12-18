@@ -8,7 +8,7 @@ Hi there, I'm Danish Ul Hassan and I'm a Front End Developer. And my deep intere
 <br/>
 Ask me anything about...
 
-<img src='https://img.shields.io/badge/flutter-%230095D5?logo=flutter&logoColor=blue&style=for-the-badge' height='25'/> <img src='https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge' height='25'/> <img src='https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white' height='25'/> <img src='https://img.shields.io/badge/react-%2300ADD8.svg?&style=for-the-badge&logo=react&logoColor=white' height='25'/>
+<img src='https://img.shields.io/badge/html-%230095D5?logo=html&logoColor=blue&style=for-the-badge' height='25'/> <img src='https://img.shields.io/badge/WebDev-3DDC84?logo=web&logoColor=white&style=for-the-badge' height='25'/> <img src='https://img.shields.io/badge/css-%230095D5.svg?&style=for-the-badge&logo=css&logoColor=white' height='25'/> <img src='https://img.shields.io/badge/js-%2300ADD8.svg?&style=for-the-badge&logo=js&logoColor=white' height='25'/>
 
 
 Reach out to me at...
