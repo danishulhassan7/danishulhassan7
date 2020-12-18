@@ -1,9 +1,9 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="300" />
 
-## Hey, I'm [Burhanuddin Rashid!](http://burhanrashid52.com) 👋 <a align="left"> <img src="https://komarev.com/ghpvc/?username=burhanrashid52&label=Views&color=blue&style=plastic" alt="burhanrashid52" /> </a>
+## Hey, I'm [Danish Ul Hassan!](https://danishulhassan7portfolio.web.app/) 👋 <a align="left"> <img src="https://komarev.com/ghpvc/?username=danishulhassan7&label=Views&color=blue&style=plastic" alt="danishulhassan7" /> </a>
 
-A Google Developer Expert in Flutter and Application Developer from Pune, India. I love building applications & discussing new product ideas.
+Hi there, I'm Danish Ul Hassan and I'm a Front End Developer. And my deep interest is in the field of Development (Web Apps )and Machine Learning. Creating new things and approach them with some new tactics.
 <br/>
 <br/>
 Ask me anything about...
