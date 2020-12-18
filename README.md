@@ -13,14 +13,14 @@ Ask me anything about...
 
 Reach out to me at...
 
-<a href="https://twitter.com/burhanrashid52">
-  <img align="left" alt="Burhanuddin's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a><a href="https://www.linkedin.com/in/burhanuddin-rashid-a16959b1">
-  <img align="left" alt="Burhanuddin's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a><a href="https://instagram.com/burhanrashid52/">
-  <img align="left" alt="Burhanuddin's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a><a href="https://facebook.com/burhanrashid5253">
-  <img align="left" alt="Burhanuddin's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<a href="https://twitter.com/DanishUlHassan5">
+  <img align="left" alt="DanishUlHassan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a><a href="https://www.linkedin.com/in/danish-ul-hassan-a86748171">
+  <img align="left" alt="DanishUlHassan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a><a href="https://instagram.com/IamDanishUlHassan/">
+  <img align="left" alt="DanishUlHassan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a><a href="https://facebook.com/danishitx.danni">
+  <img align="left" alt="DanishUlHassan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <br/>
 <br/>
