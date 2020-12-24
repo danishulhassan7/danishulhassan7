@@ -3,7 +3,7 @@
 
 ## Hey, I'm [Danish Ul Hassan!](https://danishulhassan7portfolio.web.app/) 👋 <a align="left"> <img src="https://komarev.com/ghpvc/?username=danishulhassan7&label=Views&color=blue&style=plastic" alt="danishulhassan7" /> </a>
 
-Hi there, I'm Danish Ul Hassan and I'm a Front End Developer. And my deep interest is in the field of Development (Web Apps )and Machine Learning. Creating new things and approach them with some new tactics.
+Hi there, I'm Danish Ul Hassan and I'm a Front End Developer. And my deep interest is in the field of Development (Web Apps )and Machine Learning. Creating new things and approach them with some new tactics...
 <br/>
 <br/>
 Ask me anything about...
