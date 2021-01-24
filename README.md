@@ -30,13 +30,11 @@ Reach out to me at...
 #### Languages
 
 
-HTML CSS JavaScript ReactJS
+##### HTML | CSS | JavaScript | Python
 
 #### Tools and Frameworks
 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://devicons.github.io/devicon/devicon.git/icons/jetbrains/jetbrains-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+###### VS Code | Jupyter Notebook | Bootstrap | React JS
 
 <br/>
 <br/>
