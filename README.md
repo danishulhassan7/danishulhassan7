@@ -43,7 +43,7 @@ Reach out to me at...
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danishulhassan7&theme=light&hide_langs_below=1" />
 </a>
 
-- 🔭 I’m currently working on front-end technologies
+- 🔭 I’m currently working on front-end technologies.
 - 🌱 I’m currently learning Javascript (Reactjs and Nodejs)
 - 👯 I’m looking to collaborate on open-source Web App Projects
 - 🤔 I’m looking for help with my open source projects
