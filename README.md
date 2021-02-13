@@ -29,28 +29,26 @@ Reach out to me at...
 
 <br />
 
-### - Languages and Tools...
+### - Languages
 
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-  <img src="https://raw.githubusercontent.com/khattakdev/khattakdev/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
-  <img src="https://raw.githubusercontent.com/khattakdev/khattakdev/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/khattakdev/khattakdev/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/khattakdev/khattakdev/master/svg/dev/languages/css.svg" alt="html" style="vertical-align:top; margin:4px">  
   <img src="https://raw.githubusercontent.com/khattakdev/khattakdev/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/khattakdev/khattakdev/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/khattakdev/khattakdev/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/khattakdev/khattakdev/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/khattakdev/khattakdev/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/khattakdev/khattakdev/master/svg/dev/languages/python.svg" alt="csharp" style="vertical-align:top; margin:4px">
+
 </p>
 
-### - Others
+### - Tools
 
 <p align="center">
-  <a href="https://dev.to/khattakdev">
-    <img src="https://raw.githubusercontent.com/khattakdev/khattakdev/master/svg/blogs/devto.svg"> 
-  </a>
-  <a href="https://anchor.fm/khattakdev">
-  <img src="https://raw.githubusercontent.com/khattakdev/khattakdev/master/svg/streaming/podcast.svg">
-  </a>
+  <img src="https://raw.githubusercontent.com/khattakdev/khattakdev/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/khattakdev/khattakdev/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/khattakdev/khattakdev/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/khattakdev/khattakdev/master/svg/dev/misc/jupyter.svg" alt="chrome" style="vertical-align:top; margin:4px">
+  
 </p>
 
 <br/>
