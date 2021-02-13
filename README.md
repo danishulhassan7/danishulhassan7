@@ -27,14 +27,13 @@ Reach out to me at...
 <br/>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=danishulhassan7&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
 
-<br />
+<br /> <br /> <br /> <br />
 
 ### - Languages
 
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
   <img src="https://raw.githubusercontent.com/khattakdev/khattakdev/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/khattakdev/khattakdev/master/svg/dev/languages/css.svg" alt="html" style="vertical-align:top; margin:4px">  
   <img src="https://raw.githubusercontent.com/khattakdev/khattakdev/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/khattakdev/khattakdev/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/khattakdev/khattakdev/master/svg/dev/languages/python.svg" alt="csharp" style="vertical-align:top; margin:4px">
@@ -47,7 +46,6 @@ Reach out to me at...
   <img src="https://raw.githubusercontent.com/khattakdev/khattakdev/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/khattakdev/khattakdev/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/khattakdev/khattakdev/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-    <img src="https://raw.githubusercontent.com/khattakdev/khattakdev/master/svg/dev/misc/jupyter.svg" alt="chrome" style="vertical-align:top; margin:4px">
   
 </p>
 
