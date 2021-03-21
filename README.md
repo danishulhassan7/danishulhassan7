@@ -55,7 +55,7 @@ Reach out to me at...
 </a>
 
 - 🔭 I’m currently working on front-end technologies.
-- 🌱 I’m currently learning Javascript (Reactjs and Nodejs)
+- 🌱 I’m currently learning Javascript (Reactjs & Nodejs)
 - 👯 I’m looking to collaborate on open-source Web App Projects
 - 🤔 I’m looking for help with my open source projects
 - 💬 Apart from tech you can Ask me about Cricket, TV Shows and Books
