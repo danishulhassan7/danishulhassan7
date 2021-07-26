@@ -4,7 +4,7 @@
 ## Hey, I'm [Danish Ul Hassan!](https://danishulhassan7portfolio.web.app/) 👋 <a align="left"> <img src="https://komarev.com/ghpvc/?username=danishulhassan7&label=Views&color=blue&style=plastic" alt="danishulhassan7" /> </a>
 
 
-Hi there, I'm Danish Ul Hassan a computer science student and I'm a Front End Developer. And my deep interest is in the field of Development (Web Apps ) and Data Analysis. Creating new things and approach them with some new tactics. 
+Hi there, I'm Danish Ul Hassan a computer science student and I'm currently learning Dart-Flutter and Data Analytics. And my deep interest is in the field of Development (Web Apps ) and Data Analysis. Creating new things and approach them with some new tactics. 
 
 Problem-solving enthusiast | Analytical thinker who loves DATA!
 <br/>
@@ -58,8 +58,8 @@ Reach out to me at...
 </a>
 
 - 🔭 I’m currently working on front-end technologies.
-- 🌱 I’m currently learning Javascript (Reactjs & Nodejs)
-- 👯 I’m looking to collaborate on open-source Web App Projects
+- 🌱 I’m currently learning Dart-Flutter and Data Analytics.
+- 👯 I’m looking to collaborate on open-source Flutter App + Data Analytics Projects.
 - 🤔 I’m looking for help with my open source projects
 - 💬 Apart from tech you can Ask me about Cricket, TV Shows and Books
 - 📫 How to reach me at danishulhassan7@gmail.com
