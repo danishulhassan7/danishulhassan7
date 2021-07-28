@@ -27,6 +27,8 @@ Reach out to me at...
 </a>
 <br/><br/>
 <br/>
+<summary>📝 My GitHub Stats</summary>
+
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=danishulhassan7&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
 
 <br/><br/><br/><br/><br/> <br/><br/><br/> <br />
@@ -44,6 +46,7 @@ Reach out to me at...
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/khattakdev/khattakdev/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
