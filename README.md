@@ -53,9 +53,6 @@ Reach out to me at...
 <br/>
 <br/>
 
-<a href="https://github.com/danishulhassan7">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danishulhassan7&theme=light&hide_langs_below=1" />
-</a>
 
 - 🔭 I’m currently working on front-end technologies.
 - 🌱 I’m currently learning Dart-Flutter and Data Analytics.
