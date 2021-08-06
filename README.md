@@ -1,7 +1,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="300" />
 
-## Hey, I'm [Danish Ul Hassan!](https://danishulhassan7portfolio.web.app/) 👋 <a align="left"> <img src="https://komarev.com/ghpvc/?username=danishulhassan7&label=Views&color=blue&style=plastic" alt="danishulhassan7" /> </a>
+## Hey there, I'm [Danish Ul Hassan!](https://danishulhassan7portfolio.web.app/) 👋 <a align="left"> <img src="https://komarev.com/ghpvc/?username=danishulhassan7&label=Views&color=blue&style=plastic" alt="danishulhassan7" /> </a>
 
 
 Hi there, I'm Danish Ul Hassan a computer science student and I'm currently learning Dart-Flutter and Data Analytics. And my deep interest is in the field of Development (Web Apps ) and Data Analysis. Creating new things and approach them with some new tactics. 
