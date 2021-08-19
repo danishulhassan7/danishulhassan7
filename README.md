@@ -29,7 +29,8 @@ Reach out to me at...
 <br/>
 ### - My GitHub Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=danishulhassan7&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=danishulhassan7&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danishulhassan7&show_icons=true&locale=en&layout=compact" alt="danishulhassan7" /></p>
+<br/>
 
 <br/><br/><br/><br/><br/> <br/><br/><br/> <br />
 ### - Tools & Languages
@@ -57,13 +58,14 @@ Reach out to me at...
 
 <br/>
 <br/>
-- 🔭 I’m currently working on front-end technologies.
-- 🌱 I’m currently learning Dart-Flutter and Data Analytics.
-- 👯 I’m looking to collaborate on open-source Flutter App + Data Analytics Projects.
-- 🤔 I’m looking for help with my open source projects
-- 💬 Apart from tech you can Ask me about Cricket, TV Shows and Books
-- 📫 How to reach me at danishulhassan7@gmail.com
-- ⚡ Fun fact: I can mentally be present in a meeting for 45-60 minutes. 
+
+- 🔭 I’m currently working on front-end technologies. <br/>
+- 🌱 I’m currently learning Dart-Flutter and Data Analytics. <br/>
+- 👯 I’m looking to collaborate on open-source Flutter App + Data Analytics Projects. <br/>
+- 🤔 I’m looking for help with my open source projects<br/>
+- 💬 Apart from tech you can Ask me about Cricket, TV Shows and Books<br/>
+- 📫 How to reach me at danishulhassan7@gmail.com<br/>
+- ⚡ Fun fact: I can mentally be present in a meeting for 45-60 minutes. <br/>
 
 <br/>
 <br/>
