@@ -58,6 +58,13 @@ Reach out to me at...
 <br/>
 <br/>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varunsriva&show_icons=true&locale=en&layout=compact" alt="varunsriva" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varunsriva&show_icons=true&locale=en" alt="varunsriva" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varunsriva&" alt="varunsriva" /></p>
+
+
 
 - 🔭 I’m currently working on front-end technologies.
 - 🌱 I’m currently learning Dart-Flutter and Data Analytics.
