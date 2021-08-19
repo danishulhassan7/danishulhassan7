@@ -58,11 +58,11 @@ Reach out to me at...
 <br/>
 <br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varunsriva&show_icons=true&locale=en&layout=compact" alt="varunsriva" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danishulhassan7&show_icons=true&locale=en&layout=compact" alt="danishulhassan7" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varunsriva&show_icons=true&locale=en" alt="varunsriva" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danishulhassan7&show_icons=true&locale=en" alt="danishulhassan7" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varunsriva&" alt="varunsriva" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danishulhassan7&" alt="danishulhassan7" /></p>
 
 
 
