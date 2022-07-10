@@ -4,7 +4,7 @@
 ## Hey there, I'm [Danish Ul Hassan!](https://danishulhassan7portfolio.web.app/) 👋 <a align="left"> <img src="https://komarev.com/ghpvc/?username=danishulhassan7&label=Views&color=blue&style=plastic" alt="danishulhassan7" /> </a>
 
 
-Hi there, I'm Danish Ul Hassan a computer science student and I'm currently mastering the art of Flutter. And my deep interest is in the field of Development (Web Apps) and Data Analysis. The mantra is to creat new things and approach them with some new tactics. 
+Hi there, I'm Danish Ul Hassan, an Undergrad final year student of Computer Science. I'm currently mastering the art of Flutter. And my deep interest is in the field of Development (Web Apps) and Data Analysis. The mantra is to creat new things and approach them with some new tactics. 
 
 Problem-solving enthusiast | Analytical thinker who loves DATA!
 <br/>
