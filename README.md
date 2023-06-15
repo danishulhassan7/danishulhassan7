@@ -3,9 +3,6 @@
 
 ## Hey there, I'm [Danish Ul Hassan!](https://danishulhassan7portfolio.web.app/) 👋 <a align="left"> <img src="https://komarev.com/ghpvc/?username=danishulhassan7&label=Views&color=blue&style=plastic" alt="danishulhassan7" /> </a>
 
-
-Application Developer | Tech Developer | Driving Digital Transformation
-
 Passionate about the transformation of digitalization, I'm an application developer and tech enthusiast with a recently acquired degree in Computer Science. With a keen interest in leveraging technology to drive innovation, I specialize in developing cutting-edge solutions that propel businesses forward.
 
 As an experienced professional, I have a track record of working remotely and have been recognized as a top-rated freelancer for consistently delivering exceptional results. I thrive on challenging projects that require out-of-the-box thinking and enjoy finding creative solutions to complex problems.
@@ -34,7 +31,7 @@ Reach out to me at...
 ## - GitHub Stats
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=danishulhassan7&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=danishulhassan7&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515 PAT_1"/>
   <br/><br/>
 </p>
 <br/>
