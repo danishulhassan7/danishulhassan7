@@ -4,7 +4,11 @@
 ## Hey there, I'm [Danish Ul Hassan!](https://danishulhassan7portfolio.web.app/) 👋 <a align="left"> <img src="https://komarev.com/ghpvc/?username=danishulhassan7&label=Views&color=blue&style=plastic" alt="danishulhassan7" /> </a>
 
 
-Hi there, I'm Danish Ul Hassan, an Undergrad final year student of Computer Science. I'm currently mastering the art of Flutter. And my deep interest is in the field of Development (Web Apps) and Data Analysis. The mantra is to creat new things and approach them with some new tactics. 
+Application Developer | Tech Developer | Driving Digital Transformation
+
+Passionate about the transformation of digitalization, I'm an application developer and tech enthusiast with a recently acquired degree in Computer Science. With a keen interest in leveraging technology to drive innovation, I specialize in developing cutting-edge solutions that propel businesses forward.
+
+As an experienced professional, I have a track record of working remotely and have been recognized as a top-rated freelancer for consistently delivering exceptional results. I thrive on challenging projects that require out-of-the-box thinking and enjoy finding creative solutions to complex problems.
 
 Problem-solving enthusiast | Analytical thinker who loves DATA!
 <br/>
